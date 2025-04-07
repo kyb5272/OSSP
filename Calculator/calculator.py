@@ -1,16 +1,16 @@
 ### 사칙연산 함수 정의
 
-def plus(a, b):
-    return a + b
+def plus(num1, num2):
+    return num1 + num2
 
-def minus(a, b):
-    return a - b
+def minus(num1, num2):
+    return num1 - num2
 
-def mul(a, b):
-    return a * b
+def mul(num1, num2):
+    return num1 * num2
 
-def divide(a, b):
-    return a / b
+def divide(num1, num2):
+    return num1 / num2
 
 if __name__ == '__main__':
     ### 사용자 입력
